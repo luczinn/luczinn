@@ -14,7 +14,7 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luczinn&custom_title=HISTÓRICO%20DE%20ATIVIDADE&hide_border=true&theme=high-contrast)
 <div align=center>
-<img width=200px src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fluczinn&label=Visitantes&labelColor=%23000000&countColor=%23d9e3f0&labelStyle=upper">
+[<img width=200px src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fluczinn&label=Visitantes&labelColor=%23000000&countColor=%23d9e3f0&labelStyle=upper">](https://profile-counter.glitch.me/%7Bluczinn%7D/count.svg)
 </div>
 <hr>
 
