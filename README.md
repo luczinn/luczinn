@@ -14,7 +14,7 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luczinn&custom_title=HISTÓRICO%20DE%20ATIVIDADE&hide_border=true&theme=high-contrast)
 <div align=center>
-<img align="center" src="https://profile-counter.glitch.me/{LoriaLawrenceZ}/count.svg" />
+<img align="center" src="https://profile-counter.glitch.me/{luczinn}/count.svg" />
 </div>
 <hr>
 
